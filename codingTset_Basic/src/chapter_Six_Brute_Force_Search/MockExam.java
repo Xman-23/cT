@@ -1,4 +1,4 @@
-package Chapter_Six_Brute_Force_Search;
+package chapter_Six_Brute_Force_Search;
 
 import java.util.ArrayList;
 import java.util.List;
