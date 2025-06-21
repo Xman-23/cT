@@ -1,4 +1,4 @@
-package Chapter_Five_Recursive;
+package chapter_Five_Recursive;
 
 public class QuadCompression {
     static int zeroCount = 0;
